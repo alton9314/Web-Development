@@ -1,0 +1,90 @@
+<html>
+
+<head>
+    <title>Book Club</title>
+</head>
+
+<body>
+    <h1>Book Club Website</h1>
+
+    <img src="books.jfif" alt="This is the image of books">
+
+    <ul>
+        <li><a href="https://www.codingal.com/student/dashboard/projects/">Home</a></li>
+        <li><a href="https://chatgpt.com">Resources</a></li>
+        <li><a href="www.youtube.com">Reading Groups</a></li>
+        <li><a href="#">Contact Us</a></li>
+
+    </ul>
+    <h2>This is an online community of book readers</h2>
+    <p>With the help of book club website, you can read your favourite book</p>
+    <h2>Meet our teachers</h2>
+    <img src="ms emma.jfif" alt="This is the picture of Ms. Emma">
+    <h3>Ms. Emma</h3>
+    <p>She teaches english subject im elementary school</p>
+    <img src="ms caroline.jfif" alt="This is the picture of Ms. Caroline">
+    <h3>Ms.Caroline</h3>
+    <p>She teaches in higher secondary school</p>
+    <h2>Book Review</h2>
+    <h3>Alice In Wonderland</h3>
+    <p><strong>Alton:</strong><q>He loves reading this book</q></p>
+    <h3>Harry Potter</h3>
+    <p><strong>Amirah:</strong><q>She loves reading this book</q></p>
+    <h2>Related Videos</h2>
+    <video width="400" height="200" controls autoplay>
+        <source src="SampleVideo_1280x720_1mb.mp4" type="video/mp4">
+    </video>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/s9iKuZJSxc0?si=o8QHZN7w-2eGMzCM"
+        title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <table>
+        <tr>
+            <th>Monday</th>
+
+            <td>11 am-3 pm</td>
+        </tr>
+        <tr>
+            <th>Tuesday </th>
+            <td>11 am - 3 pm</td>
+        </tr>
+        <tr>
+            <th>Wednesday</th>
+            <td>11 am - 3 pm</td>
+        </tr>
+        <tr>
+            <th>Thursday</th>
+            <td>11 am - 3 pm</td>
+        </tr>
+        <tr>
+            <th>Friday</th>
+            <td>11 am - 3 pm</td>
+        </tr>
+        <tr>
+            <th>Saturday</th>
+            <td>11 am - 3 pm</td>
+        </tr>
+        <tr>
+            <th>Sunday</th>
+            <td>Closed</td>
+        </tr>
+
+
+
+
+
+    </table>
+
+
+    <h2>Best Sellers</h2>
+    <b>The Women By The Window</b> by <em>A.J. Finn</em>
+    <b>Ikabog</b> by <em>J.K Rowling</em>
+    <center>
+        <h2>Contact Info</h2>
+    </center>
+    <p>Ms. Caroline</p>
+    <p>Phone no:8394827394</p>
+    <address>123 Street,Mumbai</address>
+</body>
+
+</html>
